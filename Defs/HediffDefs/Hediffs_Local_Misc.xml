@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HediffDef ParentName="DiseaseBase">
+		<defName>AMTCEWATTJSUKY_AteWithTable</defName>
+		<label>ate with table</label>
+		<labelNoun>eating with table</labelNoun>
+		<description>This pawn has eaten without table and... oops, eaten WITH table and died! YOU should have tolerated the war crime and accepted the -3 mood penalty! Dying is a bigger war crime than eating with a table!</description>
+		<minSeverity>1</minSeverity>
+		<initialSeverity>1</initialSeverity>
+		<maxSeverity>1</maxSeverity>
+		<lethalSeverity>1</lethalSeverity>
+	</HediffDef>
+</Defs>
